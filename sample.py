@@ -16,7 +16,7 @@ st.markdown(
     """
 <style>
   .reportview-container{
-  background-image: url('https://via.placeholder.com/150/000000/FFFFFF/?text=IPaddress.net%20C/O%20https://placeholder.com/%27');
+  background-image: url('https://via.placeholder.com/150/008000%20C/O%20https://placeholder.com/%20C/O%20https://placeholder.com//000000%20C/O%20https://placeholder.com/%20C/O%20https://placeholder.com/%20C/O%20https://placeholder.com/%20C/O%20https://placeholder.com/%20?Text=Digital.com%20C/O%20https://placeholder.com/');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;}
