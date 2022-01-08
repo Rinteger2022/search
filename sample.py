@@ -16,7 +16,7 @@ st.markdown(
     """
 <style>
   .reportview-container{
-  background-image: url('plain image.jpg');
+  background-image: url('https://ibb.co/DLbyyxP');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;}
