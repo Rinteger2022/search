@@ -63,7 +63,7 @@ d34=pd.read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vSOgtXR4WBKKi3J
 d35=pd.read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vSOgtXR4WBKKi3JZlsYsnWBj5N4TwySNeTlXMLT07cKpqWV_7J1iUBfydGZqloLRQ/pub?gid=1333070184&single=true&output=csv")
 d36=pd.read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vTvjmT79X4qi5lARzUZoCZLwS7uShtJVLQ6pq2Zsf51fQwUmaNKYAiRT0HAQ6IIiw/pub?gid=1094974181&single=true&output=csv")
 
-result = d1.append([d1,d2, d3 ,d4 ,d5 ,d6 ,d7 ,d8 ,d9 , d11, d12 ,d13 ,d14 ,d15 ,d16 ,d17 ,d18 ,d19 ,d20 ,d21 ,d22 ,d23 ,d24 ,d25 ,d26 ,d27 ,d28 ,d29 ,d30 ,d31 ,d32 ,d33 ,d34 ,d35 ,d36])
+result = d1.append([d2, d4 ,d5 ,d6 ,d7 ,d8 ,d9 , d11, d12 ,d13 ,d14 ,d15 ,d16 ,d17 ,d18 ,d19 ,d20 ,d21 ,d22 ,d23 ,d24 ,d25 ,d26 ,d27 ,d28 ,d29 ,d30 ,d31 ,d32 ,d33 ,d34 ,d35 ,d36])
 
 
 
