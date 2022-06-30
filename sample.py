@@ -113,7 +113,7 @@ with col2:
         else :
             st.markdown('''
 <div>
-  <h3 style="color:green" "font-size:200%" align="center" >This value does not exists in Dataframe</h3>
+  <h3 style="color:green" "font-size:200%" align="center" >not exists in Dataframe</h3>
 </div>
  ''', unsafe_allow_html=True);
 
