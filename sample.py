@@ -109,7 +109,7 @@ with col2:
   <h3 style="color:red" "font-size:200%" align="center" >This value exists in Dataframe</h3>
 </div>
  ''', unsafe_allow_html=True);
-           #st.write("This value exists in Dataframe")
+           #st.write(" in Dataframe")
         else :
             st.markdown('''
 <div>
