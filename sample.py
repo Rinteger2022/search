@@ -117,7 +117,7 @@ with col2:
 </div>
  ''', unsafe_allow_html=True);
 
-          #st.write("This value does not exists in Dataframe")
+          #st.write("not exists in Dataframe")
     
     
     
